@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+
+}
+#imagem_fundo {
+    background: url("imagem.jpeg");
+    height: 100%;
+    text-align: center;
+}
+#titulo {
+    color: black;
+    padding-top: 20%;
+    font-size: 60px ;
+}
+#subtitulo {
+    color: black;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+#acao {
+    color: black
+    border: 1px #594240;
+    padding: 20px 20px 20px 20px ;
+}
+.icone {
+    width: 100px;
+}
